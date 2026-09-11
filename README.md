@@ -134,4 +134,4 @@ The notebook also plots training and validation accuracy across epochs.
 
 ## Author
 
-**SmartInternz**
+**Priya Peddamallu**
