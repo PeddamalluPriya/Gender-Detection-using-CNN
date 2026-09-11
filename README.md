@@ -57,8 +57,6 @@ Images are:
 gender-detection-cnn/
 ├── GenderDetection_CNN.ipynb
 ├── README.md
-├── requirements.txt
-├── .gitignore
 └── dataset/
     ├── Female/
     └── Male/
